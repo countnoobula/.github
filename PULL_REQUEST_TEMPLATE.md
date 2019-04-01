@@ -16,6 +16,7 @@ _Put an `x` in the boxes that apply, leave blank if none_
 - [ ] Component of Major Release
 - [ ] Project Management
 - [ ] Quality of Life
+- [ ] Improving/Fixing/Adding Tests
 
 ## Checklist
 
