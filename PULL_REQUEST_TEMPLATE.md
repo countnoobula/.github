@@ -44,5 +44,3 @@ _List Issues below in format `#<ISSUE-NUMBER> [Full|Partial]`_
 
 _If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc._
 
-## Locale Keys Added
-- [ ] _Checklist of locale keys added, mark as √ once added to loco_
