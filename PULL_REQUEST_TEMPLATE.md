@@ -6,15 +6,11 @@ _Description of the changes implemented by this PR, feel free to be as verbose a
 
 ## Types of changes
 
-Where do your changes impact the system?
+What type of changes does your code introduce?
 _Put an `x` in the boxes that apply, leave blank if none_
 
 - [ ] Frontend
 - [ ] Backend
-
-What type of changes does your code introduce?
-_Put an `x` in the boxes that apply_
-
 - [ ] Bugfix
 - [ ] New feature
 - [ ] Component of Major Release
