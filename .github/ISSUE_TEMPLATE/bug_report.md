@@ -26,11 +26,14 @@ What were you expecting to happen?
 ----------------------------------
 …
 
-Any logs, error output, etc?
-----------------------------
-(If it’s long, please paste to https://ghostbin.com/ and insert the link here.)
+Priority
+-------------------
+Please tick the relevant checkbox 
+- [ ] Urgent - _The bug is breaking interactions for users_
+- [ ] Critical - _This impacts a critical procedure_
+- [ ] Important - _This should be resolved within a week_
+- [ ] Backlog - _tackle important issues before attending to this this_
 
-
-Any other comments?
+Any other comments? (logs, output, error reports, or any other useful information)
 -------------------
 …
