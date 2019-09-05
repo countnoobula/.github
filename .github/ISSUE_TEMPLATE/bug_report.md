@@ -27,10 +27,10 @@ What were you expecting to happen?
 Priority
 -------------------
 Please tick the relevant checkbox
-- [ ] Extreme - _The bug is breaking interactions for users, meaning that they are unable to use the system_
-- [ ] Urgent - _This impacts a system procedure in a critical manner_
-- [ ] High - _This should be resolved within a week_
-- [ ] Normal - _tackle important issues before attending to this this_
+- [ ] Prevents the user completing work flows - _The bug is breaking interactions for users, meaning that they are unable to use the system in an expected way_
+- [ ] Prevents the system from completing expected processes - _This bug prevents the system from completing an expected task_
+- [ ] Impacts the system critically - _The system is unable to perform tasks, but these tasks are not critical_
+- [ ] Impacts the user or system in a non-critical way - _The system or user is not in a critical state_
 
 Additional Notes
 -------------------
