@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-_A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]_
+## Description of Existing Problem
+_What problem has led to the requirement of this feature request_
 
-**Describe the solution you'd like**
-_A clear and concise description of what you want to happen._
+## User Story describing required solution
+_A user story describing the feature to be implemented_
 
-**Describe alternatives you've considered**
-_A clear and concise description of any alternative solutions or features you've considered._
+## Technical Description (not required initially)
+_A technical description of the problem, this should be completed by the engineering manager or product manager_
 
-**Additional context**
-_Add any other context or screenshots about the feature request here._
+## Additional Resources
+_Add any context, screenshots, designs, links, etc. about the feature request here._
