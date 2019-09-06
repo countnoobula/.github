@@ -29,7 +29,7 @@ Priority
 Please tick the relevant checkbox
 - [ ] Prevents the user completing work flows - _The bug is breaking interactions for users, meaning that they are unable to use the system in an expected way_
 - [ ] Prevents the system from completing expected processes - _This bug prevents the system from completing an expected task_
-- [ ] Impacts the system critically - _The system is unable to perform tasks, but these tasks are not critical_
+- [ ] Impacts the system critically - _The system is unable to perform tasks_
 - [ ] Impacts the user or system in a non-critical way - _The system or user is not in a critical state_
 
 Additional Notes
