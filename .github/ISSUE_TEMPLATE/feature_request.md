@@ -2,19 +2,30 @@
 name: Feature request
 about: Suggest an idea for this project
 title: "[FEATURE REQUEST] "
-labels: ''
+labels: 'FEATURE'
 assignees: ''
 
 ---
 
-## Description of Existing Problem
-_What problem has led to the requirement of this feature request_
+## User Story
+**As a**: [Role]
 
-## User Story describing required solution
-_A user story describing the feature to be implemented_
+**I want to**: [Brief description of feature from user perspective]
+
+**Because**: [Brief reason for request of feature]
+
+## Additional Context
+_Add any context, screenshots, designs, links, etc. about the feature request here._
+
+## Acceptance Criteria
+_List of conditions that mark the story as complete_
+- [ ]
+
+### Edge cases
+_List of edge cases to be considered when marking the story as complete_
+- [ ]
+
+----
 
 ## Technical Description (not required initially)
-_A technical description of the problem, this should be completed by the engineering manager or product manager_
-
-## Additional Resources
-_Add any context, screenshots, designs, links, etc. about the feature request here._
+_A technical description of the problem, this should be completed by the engineering manager/developer_
